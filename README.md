@@ -74,5 +74,5 @@ For additional info, contact Ben Spilsbury or Michael Wirtz at
 ├── data
 ├── images
 ├── README.md
-├── slides_successful_movie.pdf
-└── code_successful_movie.ipynb
+├── code_successful_movie.ipynb
+└── slides_successful_movie.pdf
