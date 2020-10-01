@@ -74,5 +74,5 @@ For additional info, contact Ben Spilsbury or Michael Wirtz at
 ├── data
 ├── images
 ├── README.md
-├── What Makes a Movie Successful PDF
-└── What_Makes_a_Successful_Movie.ipynb
+├── slides_successful_movie.pdf
+└── code_successful_movie.ipynb
