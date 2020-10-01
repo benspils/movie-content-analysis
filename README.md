@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Phase 1 Project Templates and Examples
 
 This repo contains templates and examples to help you get started with your Phase 1 Project. Each of these is in a separate branch as explained below.
@@ -12,7 +12,6 @@ Once you've completed your project using the MVP template, you can improve it us
 - The **template-aab** branch is the AAB template to use to keep improving your project.
 
 - The **example-aab** branch is an example project using the AAB template.
-=======
 
 # Microsoft Studio Movie Analysis
 
@@ -91,4 +90,4 @@ For additional info, contact Ben Spilsbury or Michael Wirtz at
 ├── README.md
 ├── code_successful_movie.ipynb
 └── slides_successful_movie.pdf
->>>>>>> template-mvp
+
