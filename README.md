@@ -1,6 +1,8 @@
 
 # Microsoft Studio Movie Analysis
 
+![director_shot.jpeg](./images/director_shot.jpeg)
+
 **Authors**: [Ben Spilsbury](mailto:benjamin.spilsbury@gmail.com), [Michael Wirtz](mailto:mwirtz@tulane.edu)
 
 ## Overview
