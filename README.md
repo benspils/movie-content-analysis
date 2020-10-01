@@ -63,7 +63,7 @@ Further analysis into each of the factors tested above may produce more accurate
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./animal-shelter-needs-analysis.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./code_success_movie.ipynb) or review this [presentation](./slides_successful_movie.pdf).
 
 For additional info, contact Ben Spilsbury or Michael Wirtz at
 [benjamin.spilsbury@gmail.com](mailto:benjamin.spilsbury@gmail.com) or [mwirtz@tulane.edu](mailto:mwirtz@tulane.edu), respectively
